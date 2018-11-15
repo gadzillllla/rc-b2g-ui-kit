@@ -1,6 +1,6 @@
 {
   "name": "rc-b2g-ui-kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "UI KIT for React app",
   "main": "index.js",
   "scripts": {
@@ -34,7 +34,6 @@
     "emotion": "^9.2.12",
     "prop-types": "^15.6.2",
     "ramda": "^0.25.0",
-    "rc-b2g-ui-kit": "^1.0.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-emotion": "^9.2.12"
