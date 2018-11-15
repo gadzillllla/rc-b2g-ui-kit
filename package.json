@@ -1,6 +1,6 @@
 {
   "name": "rc-b2g-ui-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UI KIT for React app",
   "main": "index.js",
   "scripts": {
@@ -13,18 +13,18 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/preset-env": "^7.1.6",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.4",
     "css-loader": "^1.0.1",
     "mini-css-extract-plugin": "^0.4.4",
     "react-hot-loader": "^4.3.11",
+    "start-react-webpack-babel-setup": "^1.0.4",
+    "style-loader": "^0.23.1",
     "webpack": "^4.23.1",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.10",
-    "style-loader": "^0.23.1",
-    "start-react-webpack-babel-setup": "^1.0.4",
-    "@babel/plugin-proposal-class-properties": "^7.1.0"
+    "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
     "babel-plugin-emotion": "^9.2.11",
@@ -34,6 +34,7 @@
     "emotion": "^9.2.12",
     "prop-types": "^15.6.2",
     "ramda": "^0.25.0",
+    "rc-b2g-ui-kit": "^1.0.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-emotion": "^9.2.12"
