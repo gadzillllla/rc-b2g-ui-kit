@@ -14,7 +14,6 @@ const Button = props => {
     children,
     type,
     inverted,
-    dataType,
     ghost,
     danger,
     pseudoLink,
